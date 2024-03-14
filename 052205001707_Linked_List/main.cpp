@@ -4,7 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "------052205001707_Nguyen Anh Huy------" << endl;
     linkedlist* list_ = new linkedlist();
     element* e;
     e = new element(9);
